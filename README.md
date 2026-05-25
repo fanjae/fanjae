@@ -1,5 +1,7 @@
 # FanJae
 
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fanjae)](https://solved.ac/fanjae/)
 
 <!--
@@ -17,5 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## GitHub Status
-![FanJae's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanjae&show_icons=true)
+## Dev Log
+📘 Tistory — 프로젝트 개발 기록 정리  
+https://fanjae.tistory.com/
+
