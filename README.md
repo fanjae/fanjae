@@ -1,5 +1,10 @@
 # FanJae
 
+## Skills
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) 
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) 
+![Unity](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=unity&logoColor=white)
+
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fanjae)](https://solved.ac/fanjae/)
