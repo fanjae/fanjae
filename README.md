@@ -25,6 +25,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fanjae)](https://solved.ac/fanjae/)
 
 ## Dev Log
-📘 Tistory — 개발 기록 및 프로젝트 정리
-https://fanjae.tistory.com/
+📘 [Tistory — 개발 기록 및 프로젝트 정리](https://fanjae.tistory.com/)
 
