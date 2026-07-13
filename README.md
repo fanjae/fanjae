@@ -24,6 +24,21 @@
 
 ## Proejct
 
+### 🎮 PixelKov
+
+Escape from Tarkov에서 영감을 받아 제작한 픽셀 아트 스타일의 2D PvE 익스트랙션 슈터 팀 프로젝트입니다.
+몬스터와 보스를 처치해 재화와 재료를 획득하고, 인벤토리·상점·강화·제작 시스템을 통해 장비를 성장시키는 게임 구조를 구현했습니다.
+
+4인 팀의 팀장으로 프로젝트 관리와 시스템 설계를 담당했으며, 아이템 데이터와 인벤토리, 장비, 재화 및 상점·제작 시스템 간의 연동 구조를 구현했습니다.
+
+Unity / C#
+2D PvE Extraction Shooter
+ScriptableObject 기반 데이터 관리
+Inventory / Equipment / Shop / Crafting System
+
+[Repository](https://github.com/fanjae/Pixelkov)
+
+
 ### 🎮 TankBattle
 Unity 기반 2인 탱크 배틀 미니 프로젝트입니다.  
 C# TCP 서버와 연동하여 클라이언트 입력을 서버로 전송하고, 서버에서 계산한 탱크 상태를 클라이언트에 반영하는 구조로 구현했습니다.
