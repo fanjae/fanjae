@@ -31,10 +31,10 @@ Escape from Tarkov에서 영감을 받아 제작한 픽셀 아트 스타일의 2
 
 4인 팀의 팀장으로 프로젝트 관리와 시스템 설계를 담당했으며, 아이템 데이터와 인벤토리, 장비, 재화 및 상점·제작 시스템 간의 연동 구조를 구현했습니다.
 
-Unity / C#
-2D PvE Extraction Shooter
-ScriptableObject 기반 데이터 관리
-Inventory / Equipment / Shop / Crafting System
+- Unity / C#
+- 2D PvE Extraction Shooter
+- ScriptableObject 기반 데이터 관리
+- Inventory / Equipment / Shop / Crafting System
 
 [Repository](https://github.com/fanjae/Pixelkov)
 
