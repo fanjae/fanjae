@@ -24,6 +24,32 @@
 
 ## Proejct
 
+### 🎮 TwoFacedPoker
+
+C++ TCP 서버와 C# 클라이언트로 구현한 2인 온라인 카드 게임 개인 프로젝트입니다. 서버가 방 관리, 턴 진행, 베팅, 승패 판정 및 칩 정산을 담당하는 Server-authoritative 구조로 구현했습니다.
+
+멀티스레드 서버 구조와 Length-Prefix 기반 TCP 패킷 프로토콜을 직접 설계하고 구현했습니다.
+
+- C++17 / WinSock2 TCP Server
+- C# .NET 8 / Windows Forms Client
+- Multi-threaded Room / Game Session
+- Length-Prefix Packet / Betting System
+
+[Server](https://github.com/fanjae/TwofacedPoker) / [Client](https://github.com/fanjae/TwofacedPoker_Client)
+
+### 🎮 IDLEAdventure
+
+Unity 기반 3D 방치형 RPG 팀 프로젝트입니다. 최대 5명의 영웅을 편성해 자동 전투와 필드 탐험을 진행하고, 장비·가챠·퀘스트·상점·방치 보상 시스템을 통해 캐릭터를 성장시키는 구조를 구현했습니다.
+
+5인 팀의 팀장으로 장비·인벤토리, 저장·로드, 레벨 공명 시스템 및 콘텐츠 간 시스템 통합을 담당했습니다.
+
+- Unity 6 / C#
+- 3D Idle RPG
+- Equipment / Inventory / Save & Load
+- Auto Battle / Quest / Gacha / Shop
+
+[Repository](https://github.com/fanjae/IDLEAdventure)
+
 ### 🎮 PixelKov
 
 Escape from Tarkov에서 영감을 받아 제작한 픽셀 아트 스타일의 2D PvE 익스트랙션 슈터 팀 프로젝트입니다.
@@ -37,18 +63,6 @@ Escape from Tarkov에서 영감을 받아 제작한 픽셀 아트 스타일의 2
 - Inventory / Equipment / Shop / Crafting System
 
 [Repository](https://github.com/fanjae/Pixelkov)
-
-
-### 🎮 TankBattle
-Unity 기반 2인 탱크 배틀 미니 프로젝트입니다.  
-C# TCP 서버와 연동하여 클라이언트 입력을 서버로 전송하고, 서버에서 계산한 탱크 상태를 클라이언트에 반영하는 구조로 구현했습니다.
-
-- Unity / C#
-- C# TCP Dedicated Server
-- Length-Prefix Packet
-- Server-authoritative 구조 학습
-
-[Client](https://github.com/fanjae/TankBattle) / [Server](https://github.com/fanjae/TankBattleServer)
 
 ### 🎮 MyConsoleMapleRPG
 콘솔 기반 RPG 미니 프로젝트입니다.  
