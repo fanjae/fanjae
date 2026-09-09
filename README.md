@@ -30,7 +30,7 @@ C++ TCP 서버와 C# 클라이언트로 구현한 2인 온라인 카드 게임 �
 
 멀티스레드 서버 구조와 Length-Prefix 기반 TCP 패킷 프로토콜을 직접 설계하고 구현했습니다.
 
-- C++17 / WinSock2 TCP Server
+- C++17 / TCP Server
 - C# .NET 8 / Windows Forms Client
 - Multi-threaded Room / Game Session
 - Length-Prefix Packet / Betting System
